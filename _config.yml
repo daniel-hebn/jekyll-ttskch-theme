@@ -3,9 +3,9 @@
 #
 # url: http://localhost:4000
 # baseurl: ""
-url: http://ttskch.github.io
-baseurl: /jekyll-ttskch-theme
-title: Your name
+url: https://daniel-hebn.github.io
+baseurl: /
+title: Daniel Hebn
 description: Some descriptions of yourself.
 avatar: /assets/img/ogp.png
 # favicon: /favicon.ico
